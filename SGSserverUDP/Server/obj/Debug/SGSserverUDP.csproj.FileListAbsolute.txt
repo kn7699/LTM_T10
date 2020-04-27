@@ -1,0 +1,36 @@
+E:\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.exe
+E:\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.pdb
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojResolveAssemblyReference.cache
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+E:\SOFT\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+E:\SOFT\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojAssemblyReference.cache
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\samhp\OneDrive\Desktop\SGSserverUDP-20200328T164844Z-001\SGSserverUDP\Server\obj\Debug\Server.pdb
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\bin\Debug\Server.exe
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\bin\Debug\Server.pdb
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojAssemblyReference.cache
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\Server.exe
+D:\BT_t7\UngDungChatQuaClientSever\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\ASUS\OneDrive\Desktop\ServerT9\SGSserverUDP\Server\obj\Debug\Server.pdb
